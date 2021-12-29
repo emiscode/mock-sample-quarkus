@@ -1,4 +1,4 @@
-# b2b-mock Project
+# Mock Project with Java Quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
